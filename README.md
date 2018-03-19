@@ -1,6 +1,9 @@
 
 #Machine Learning Algorithms using R 
 
+Machine Learning is the field of study that gives computer the ability to learn without being explicitly programmed. 
+                                                                                           ---- Arthur samuels 1959
+
 
 ##Regression Algorithms
 1. Linear Regression 
