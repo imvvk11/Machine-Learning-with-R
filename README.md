@@ -29,4 +29,4 @@
 1. Clustering
     K Means
     Hierarchial  Clustering
-2. Aprioci
+2. Apriori
