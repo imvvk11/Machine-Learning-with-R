@@ -1,0 +1,32 @@
+
+#Machine Learning Algorithms using R 
+
+
+##Regression Algorithms
+1. Linear Regression 
+2. Multiple Regression
+3. Support Vector Regression
+4. Decision Tree
+5. Random Forest
+
+
+
+
+##Classification Algorithms
+1. Logistic Regression
+2. Support Vector Machine
+3. Kenel SVM
+4. KNN (K Nearest Neighbors)
+5. Decision Tree
+6.Random Forest
+7. Naive Bayes
+
+
+
+
+##Clustering Algorithms
+
+1. Clustering
+    K Means
+    Hierarchial  Clustering
+2. Aprioci
