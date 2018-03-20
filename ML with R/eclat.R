@@ -1,4 +1,4 @@
-Association rules 
+#Association rules 
 
 
 #step1: load the library arules
