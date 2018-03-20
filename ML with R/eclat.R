@@ -1,3 +1,6 @@
+Association rules 
+
+
 #step1: load the library arules
 
 library(arules)
