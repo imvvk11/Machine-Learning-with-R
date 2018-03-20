@@ -1,4 +1,6 @@
-# step:
+#Associative algorithm
+
+# step: read the file
 
 #import library arules
 library(arules)
