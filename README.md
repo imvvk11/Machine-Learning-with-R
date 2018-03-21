@@ -32,6 +32,13 @@ Machine Learning is the field of study that gives computer the ability to learn 
 1. Clustering
     K Means
     Hierarchial  Clustering
+2. Non - Clustering
 
-2. Apriori
-3. eclat
+##Association Rules(Data mining)
+
+1. Apriori
+2. eclat
+
+##Natural Language Processing
+
+
