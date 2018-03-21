@@ -21,7 +21,7 @@ Machine Learning is the field of study that gives computer the ability to learn 
 3. Kenel SVM
 4. KNN (K Nearest Neighbors)
 5. Decision Tree
-6.Random Forest
+6. Random Forest
 7. Naive Bayes
 
 
@@ -32,6 +32,7 @@ Machine Learning is the field of study that gives computer the ability to learn 
 1. Clustering
     K Means
     Hierarchial  Clustering
+    
 2. Non - Clustering
 
 ##Association Rules(Data mining)
